@@ -1,0 +1,11 @@
+virtual/
+*.pyc
+api key = c3a76ba0bb19cbf8c15e2b5907ef37f6
+
+example Api request = 
+https://api.themoviedb.org/3/movie/550?api_key=c3a76ba0bb19cbf8c15e2b5907ef37f6
+
+
+Api read access token = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjM2E3NmJhMGJiMTljYmY4YzE1ZTJiNTkwN2VmMzdmNiIsInN1YiI6IjYyNjcxNWI4MTQyZWYxMDA1MTRkMWIxMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5g7kDGdUSE1qv0NYAzjXNXrT5j5F-iEk2PJ0FQfqrw8
+
+instance/
